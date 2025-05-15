@@ -1,5 +1,5 @@
 <addons>
-    <addon id="plugin.video.hrochcinema" name="Hroch Cinema" version="0.1.4" provider-name="HrochGPT">
+    <addon id="plugin.video.hrochcinema" name="Hroch Cinema" version="0.1.5" provider-name="HrochGPT">
         <extension point="xbmc.python.pluginsource" library="bootstrap.py"/>
         <extension point="xbmc.addon.metadata">
             <summary lang="cs">Hroch Cinema – přehrávání filmů z Webshare</summary>
