@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.hrochcinema" name="Hroch Cinema Repo" version="1.0.0" provider-name="HrochGPT">
     <extension point="xbmc.addon.repository" name="Hroch Cinema Repo">
-        <info>https://your.github.url/repository.hrochcinema/addons.xml</info>
-        <checksum>https://your.github.url/repository.hrochcinema/addons.xml.md5</checksum>
-        <datadir>https://your.github.url/repository.hrochcinema/zips/</datadir>
+        <info>https://raw.githubusercontent.com/hippohop/hroch-cinema-repo/main/addons.xml</info>
+<checksum>https://raw.githubusercontent.com/hippohop/hroch-cinema-repo/main/addons.xml.md5</checksum>
+<datadir>https://raw.githubusercontent.com/hippohop/hroch-cinema-repo/main/zips/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary lang="cs">Repozitář pro doplněk Hroch Cinema</summary>
